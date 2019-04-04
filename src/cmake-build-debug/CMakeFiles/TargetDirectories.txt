@@ -1,0 +1,3 @@
+/home/cagri/CLionProjects/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cagri/CLionProjects/src/cmake-build-debug/CMakeFiles/src.dir
+/home/cagri/CLionProjects/src/cmake-build-debug/CMakeFiles/edit_cache.dir
